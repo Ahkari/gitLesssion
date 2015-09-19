@@ -7,3 +7,7 @@ function(event){
 
 
 test the repository return function ;
+
+
+
+test the buffer area function ;
