@@ -18,3 +18,6 @@ why we said that which git 管理的 is edition no publision?
 
 git add one ;
 git add two ;
+
+
+can this edit publish to github master ?
